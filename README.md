@@ -1,4 +1,23 @@
+# boilerplate
+
+<p align="center">
+ <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/alqlima/boilerplate" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/alqlima/boilerplate" />
+  <img alt="" src="https://img.shields.io/github/repo-size/alqlima/boilerplate" />
+  <img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/alqlima/boilerplate" />
+  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/alqlima/boilerplate" />
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/alqlima/boilerplate" />
+</p>
+
+## 💻 About the project
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+ ## Project status
+ 
+ <h4 align="center">
+   🚧 Boilerplate 🚀 Under construction... 🚧
+ </h4>
 
 ## Getting Started
 
@@ -32,3 +51,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Author
+[André Queiroz](https://www.linkedin.com/in/andré-queiroz-b8805069/)
+
+## Donation
+
+Did you like the project? Want more? Help with a donation, even a coffee is valid =)
+
+Gostou do preojeto? Quer mais? Ajude com uma doação, até um café é válido =)
+
+[![paypal](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BB4E5XX7WQBNA)
+
