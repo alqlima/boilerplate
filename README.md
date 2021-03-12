@@ -11,6 +11,9 @@
 
 ## 💻 About the project
 
+Building a fully interactive map using the Leaflet's fantastic library.
+Each point on the map will be managed through a CMS in the cloud called GraphCMS and we will use NextJS to create the best user experience
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
  ## Project status
