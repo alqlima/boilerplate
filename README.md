@@ -18,7 +18,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
  ## Project status
  
  <h4 align="center">
-   🚧 Boilerplate 🚀 Under construction... 🚧
+   🚧 Boilerplate 🚀 Concluded! 🚧
  </h4>
 
 ## Getting Started
